@@ -18,3 +18,4 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WS.sendRequest(findTestObject('New Request get user'))
+WS.sendRequest(findTestObject('New Request get user'))
